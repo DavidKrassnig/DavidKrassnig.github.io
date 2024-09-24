@@ -35,38 +35,21 @@
      inkscape:current-layer="svg2" />
   <!-- end original Flag_of_Austria.svg -->
   <!-- begin modified Flag_of_Germany.svg -->
-  <g
-     id="g1"
-     transform="scale(0.71111111,0.8)">
-    <g
-       id="g2">
-      <rect
-         width="900"
-         height="600"
-         fill="#d81e05"
-         id="rect1"
-         x="0"
-         y="0" />
-      <rect
-         width="900"
-         height="200"
-         fill="#ffffff"
-         y="200"
-         id="rect2"
-         x="0" />
-      <polygon
-         id="gold_stripe"
-         points="0,600 900,0 900,600 "
-         fill="#ffce00" />
-      <polygon
-         id="red_stripe"
-         points="300,400 900,0 900,400 "
-         fill="#dd0000" />
-      <polygon
-         id="black_stripe"
-         points="600,200 900,0 900,200 "
-         fill="#000000" />
-    </g>
-  </g>
+  <rect
+     width="640"
+     height="480"
+     fill="#d81e05"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:0.754247" />
+  <rect
+     width="640"
+     height="160"
+     fill="#ffffff"
+     y="160"
+     id="rect2"
+     x="0"
+     style="stroke-width:0.754247" />
   <!-- end modified Flag_of_Germany.svg -->
 </svg>

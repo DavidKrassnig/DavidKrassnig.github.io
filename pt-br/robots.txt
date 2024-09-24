@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://david.krassnig.de/al-folio-crasnicius/sitemap.xml
