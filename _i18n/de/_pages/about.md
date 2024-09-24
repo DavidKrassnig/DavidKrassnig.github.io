@@ -1,0 +1,5 @@
+Schreiben Sie hier Ihre Biografie. Erzählen Sie der Welt etwas über sich. Verlinken Sie Ihren Lieblings-Subreddit [hier](http://reddit.com). Sie können auch ein Bild einfügen. Der Code ist bereits vorhanden, benennen Sie einfach Ihr Bild als `prof_pic.jpg` und platzieren Sie es im Ordner `img/`.
+
+Geben Sie Ihre Adresse, Postfach oder andere Informationen direkt unter Ihrem Bild an. Sie können auch einzelne Elemente deaktivieren, indem Sie die `profile`-Eigenschaft im YAML-Header Ihrer Datei `_pages/about.md` bearbeiten. Bearbeiten Sie `_bibliography/papers.bib` und Jekyll wird automatisch Ihre [Veröffentlichungsseite](/al-folio/publications/) rendern.
+
+Verlinken Sie auch Ihre Social-Media-Konten. Dieses Thema ist so eingerichtet, dass [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/) und [Academicons](https://jpswalsh.github.io/academicons/) verwendet werden können, wie die unten stehenden Beispiele. Fügen Sie Ihre Facebook, Twitter, LinkedIn, Google Scholar Verbindungen hinzu oder deaktivieren Sie sie einfach alle.

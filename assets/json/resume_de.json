@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Albert Einstein",
+    "label": "Wissenschaftler",
+    "image": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://george-gca.github.io/multi-language-al-folio/",
+    "summary": "Ein in Deutschland geborener theoretischer Physiker, der weitgehend als einer der größten und einflussreichsten Wissenschaftler aller Zeiten gilt",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "Kalifornien"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institut für Fortgeschrittene Studien, Princeton University",
+      "position": "Professor für theoretische Physik",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Unterricht im Palmer Physical Laboratory (jetzt 302 Frist Campus Center). Obwohl ich kein Professor an der Princeton University war, hatte ich Kontakt zu den Physikprofessoren und hielt weiterhin Vorlesungen auf dem Campus.",
+      "highlights": [
+        "Relativität"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universität Zürich, Zürich, Schweiz",
+      "url": "https://www.uzh.ch/",
+      "area": "Softwareentwicklung",
+      "studyType": "Promotion",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "",
+      "courses": [
+        "Theorie der Relativität"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobelpreis für Physik",
+      "date": "1921-11-01",
+      "awarder": "Königliche Schwedische Akademie der Wissenschaften",
+      "summary": "Die Nobelpreise sind fünf separate Preise, die gemäß dem Testament von Alfred Nobel aus dem Jahr 1895 'denen verliehen werden, die im zurückliegenden Jahr der Menschheit den größten Nutzen gebracht haben.'"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "Fließend"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
