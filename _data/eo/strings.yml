@@ -1,0 +1,145 @@
+name:
+  personal_name: Davito
+  middle_name:
+  family_name: KRASNIKO
+archive-category: arkivo de afiŝoj en ĉi tiu kategorio
+archive-tag: arkivo de afiŝoj kun ĉi tiu etikedo
+archive-year: arkivo de afiŝoj de ĉi tiu jaro
+blog:
+  navigation_title: blogo
+categories:
+  fun: libertempo
+  work: laboro
+citation:
+  bibtex: "or as a BibTeX entry:"
+  introduction: "If you found this useful, please cite this as:"
+contact_note: Vi plej bone povas atingi min per retpoŝto.
+cv:
+  address: Adreso
+  area: Regiono
+  awarder: Premiinto
+  awards: Premioj
+  basics: Ĝenerala informo
+  certificates: Atestoj
+  city: Urbo
+  countryCode: Landa kodo
+  courses: Kursaroj
+  date: Dato
+  education: Edukado
+  email: Retpoŝto
+  endDate: Fina dato
+  fluency: Kapablo
+  highlights: Prizaĵoj
+  image: Bildo
+  institution: Institucio
+  interests: Interesoj
+  issuer: Donanto
+  keywords: Ŝlosilvortoj
+  label: Etikedo
+  language: Lingvo
+  languages: Lingvoj
+  level: Nivelo
+  location: Loko
+  name: Nomo
+  network: Reto
+  organization: Organizo
+  phone: Telefono
+  position: Pozicio
+  postalCode: Poŝtkodo
+  profiles: Profiloj
+  projects: Projektoj
+  publications: Publikigoj
+  publisher: Eldonanto
+  reference: Referenco
+  references: Referencoj
+  region: Regiono
+  releaseDate: Eldondato
+  score: Poento
+  skills: Kapabloj
+  startDate: Komencodato
+  studyType: Studa tipo
+  summary: Resumo
+  table_of_contents: Enhavo
+  title: Titolo
+  url: URL
+  username: Uzantonomo
+  volunteer: Volontulo
+  work: Laboro
+footer_text: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a>.
+latest_posts: lastaj afiŝoj
+months:
+  long:
+    january: Januaro
+    february: Februaro
+    march: Marto
+    april: Aprilo
+    may: Majo
+    june: Junio
+    july: Julio
+    august: Aŭgusto
+    september: Septembro
+    october: Oktobro
+    november: Novembro
+    december: Decembro
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: Maj
+    june: Jun
+    july: Jul
+    august: Aŭg
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dec
+news: novaĵoj
+newsletter:
+  back: Reen
+  error: "Ho ve! Io misfunkciis, bonvolu reprovi."
+  subscribe: aboni
+  subscribed: "Vi sukcese abonis la novaĵleteron."
+  subscribe_to_receive: "Abonu por esti informita pri estontaj artikoloj:"
+  too_many_signups: "Tro multaj aliĝoj, bonvolu reprovi post iom da tempo"
+  wait: "Bonvolu atendi..."
+no_news: Neniuj novaĵoj ĝis nun...
+pagination:
+  newer: Pli nova
+  older: Pli malnova
+  page: Paĝo
+post:
+  created_in: Kreita en
+  created_by: de
+  last_updated: lastfoje ĝisdatigita en
+references: Referencoj
+related_posts:
+  description: "Jen kelkaj aliaj artikoloj, kiujn vi eble ŝatus legi post ĉi tiu:"
+  title: Ĉu vi ĝuis legi ĉi tiun artikolon?
+search:
+  dark_theme:
+    description: Ŝanĝi la temon de la retejo al Malhela
+    title: Ŝanĝi temon al malhela
+  dropdown: Falmenuejo
+  email: Sendi retpoŝton
+  footer:
+    close: por fermi
+    navigate: por navigi
+    parent: moviĝi al supermenuo
+    select: por elekti
+  languages: Lingvoj
+  light_theme:
+    description: Ŝanĝi la temon de la retejo al Luma
+    title: Ŝanĝi temon al luma
+  navigation: Navigada menuo
+  news: Novaĵoj
+  placeholder: Tajpu por komenci serĉi
+  posts: Afiŝoj
+  projects: Projektoj
+  socials: Sociaj retoj
+  system_theme:
+    description: Ŝanĝi la temon de la retejo al Sistemo Defaŭlto
+    title: Uzi la defaŭltan temon de la sistemo
+  theme: Temo
+selected_publications: elektitaj eldonaĵoj
+site_description: La propra retejo de D-ro Davito KRASNIKO.

@@ -1,0 +1,145 @@
+name:
+  personal_name: David
+  middle_name:
+  family_name: Krassnig
+archive-category: Ein Archiv von Beiträgen aus dieser Kategorie
+archive-tag: Ein Archiv von Beiträgen mit diesem Schlagwort
+archive-year: Ein Archiv von Beiträgen aus diesem Jahr
+blog:
+  navigation_title: blog
+categories:
+  fun: Freizeit
+  work: Arbeit
+citation:
+  bibtex: "Als BibTeX:"
+  introduction: "Dieses Werk kann wie folgt zitiert werden:"
+contact_note: Sie erreichen mich am besten via E-Mail.
+cv:
+  address: Adresse
+  area: Bereich
+  awarder: Aussteller
+  awards: Auszeichnungen
+  basics: Allgemeine Informationen
+  certificates: Zertifikate
+  city: Stadt
+  countryCode: Ländercode
+  courses: Kurse
+  date: Datum
+  education: Ausbildung
+  email: E-Mail
+  endDate: Enddatum
+  fluency: Sprachkenntnisse
+  highlights: Höhepunkte
+  image: Bild
+  institution: Institution
+  interests: Interessen
+  issuer: Herausgeber
+  keywords: Stichwörter
+  label: Bezeichnung
+  language: Sprache
+  languages: Sprachen
+  level: Niveau
+  location: Standort
+  name: Name
+  network: Netzwerk
+  organization: Organisation
+  phone: Telefon
+  position: Position
+  postalCode: Postleitzahl
+  profiles: Profile
+  projects: Projekte
+  publications: Veröffentlichungen
+  publisher: Verlag
+  reference: Referenz
+  references: Referenzen
+  region: Region
+  releaseDate: Veröffentlichungsdatum
+  score: Punktzahl
+  skills: Fähigkeiten
+  startDate: Startdatum
+  studyType: Studientyp
+  summary: Zusammenfassung
+  table_of_contents: Inhaltsverzeichnis
+  title: Titel
+  url: URL
+  username: Benutzername
+  volunteer: Freiwilliger
+  work: Arbeit
+footer_text: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a>.
+latest_posts: Aktuelle Beiträge
+months:
+  long:
+    january: Januar
+    february: Februar
+    march: März
+    april: April
+    may: Mai
+    june: Juni
+    july: Juli
+    august: August
+    september: September
+    october: Oktober
+    november: November
+    december: Dezember
+  short:
+    january: Jan
+    february: Feb
+    march: Mär
+    april: Apr
+    may: Mai
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dez
+news: Neuigkeiten
+newsletter:
+  back: Zurück
+  error: "Upps! Hier lief etwas schief. Versuchen Sie es bitte erneut."
+  subscribe: abonnieren
+  subscribed: "Sie haben sich erfolgreich für diesen Newsletter angemeldet."
+  subscribe_to_receive: "Abonnieren Sie den Newsletter, um bei zukünftigen Beiträgen benachrichtigt zu werden:"
+  too_many_signups: "Zu viele Anmeldungen! Bitte versuchen Sie es später erneut."
+  wait: "Bitte warten Sie..."
+no_news: Bisher keine Neuigkeiten...
+pagination:
+  newer: Neuer
+  older: Älter
+  page: Seite
+post:
+  created_in: Erschaffen
+  created_by: von
+  last_updated: Zuletzt aktualisiert
+references: Referenzen
+related_posts:
+  description: "Hier sind weitere Beiträge, die Ihnen auch gefallen könnten:"
+  title: Ihnen hat dieser Beitrag gefallen?
+search:
+  dark_theme:
+    description: Ändere das Design der Seite zu Dunkel
+    title: Design zu Dunkel ändern
+  dropdown: Dropdown
+  email: E-Mail senden
+  footer:
+    close: schließen
+    navigate: navigieren
+    parent: zum übergeordneten Element wechseln
+    select: auswählen
+  languages: Sprachen
+  light_theme:
+    description: Ändere das Design der Seite zu Hell
+    title: Design zu Hell ändern
+  navigation: Navigationsmenü
+  news: Nachrichten
+  placeholder: Tippe, um die Suche zu starten
+  posts: Beiträge
+  projects: Projekte
+  socials: Soziale Netzwerke
+  system_theme:
+    description: Ändere das Design der Seite zu Systemstandard
+    title: Systemstandard-Design verwenden
+  theme: Design
+selected_publications: Ausgewählte Veröffentlichungen
+site_description: Die persönliche Webseite von Dr. David Krassnig.
