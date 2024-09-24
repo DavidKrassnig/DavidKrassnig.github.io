@@ -1,0 +1,154 @@
+not_found:
+  message: Sie werden innerhalb von 3 Sekunden zur Hauptseite weitergeleitet. Falls nicht, gehen Sie bitte zurück zur
+  main_page: Startseite
+main:
+  address: >
+    <p>555 Ihre Büronummer</p>
+    <p>123 Ihre Adressstraße</p>
+    <p>Ihre Stadt, Bundesland 12345</p>
+  contact_note: Sie können sogar eine kleine Notiz hinzufügen, um mitzuteilen, wie man Sie am besten erreichen kann.
+  description: Ein einfaches, whitespace-basiertes Thema für Wissenschaftler. Basierend auf dem [*folio](https://github.com/bogoli/-folio)-Design.
+  footer_text: > # Das ">"-Symbol bedeutet, dass neue Zeilen ignoriert werden, bis "titles:" erreicht wird.
+    Betrieben mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> und dem <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>-Thema.
+    Gehostet von <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    Fotos von <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  subtitle: <a href='#'>Affiliationen</a>. Adresse. Kontakte. Motto. Etc.
+titles:
+  about: Über
+  blog: Blog
+  cv: Lebenslauf
+  latest_posts: Aktuelle Beiträge
+  news: Neuigkeiten
+  projects: Projekte
+  publications: Veröffentlichungen
+  repositories: Repositories
+  selected_publications: Ausgewählte Veröffentlichungen
+  teaching: Lehre
+  submenus: Untermenüs
+  unk: Seite nicht gefunden
+descriptions:
+  about: Über mich
+  archive-category: Ein Archiv von Beiträgen aus dieser Kategorie
+  archive-tag: Ein Archiv von Beiträgen mit diesem Schlagwort
+  archive-year: Ein Archiv von Beiträgen aus diesem Jahr
+  blog: Bloggen
+  cv: Dies ist eine Beschreibung der Seite. Sie können sie in '_pages/cv.md' ändern. Sie können auch den oberen PDF-Download-Button ändern oder entfernen.
+  publications: Veröffentlichungen nach Kategorien in umgekehrter chronologischer Reihenfolge. Generiert von jekyll-scholar.
+  projects: Eine wachsende Sammlung Ihrer coolen Projekte.
+  repositories: Bearbeiten Sie die `_data/repositories.yml` und ändern Sie die Listen `github_users` und `github_repos`, um Ihr eigenes GitHub-Profil und Ihre eigenen Repositories einzuschließen.
+  teaching: Materialien für von Ihnen gehaltene Kurse. Ersetzen Sie diesen Text durch Ihre Beschreibung.
+  unk: Es scheint einen Fehler gegeben zu haben. Hier existiert nichts.
+blog:
+  description: Ein einfaches whitespace-basiertes Thema für Wissenschaftler
+  name: al-folio Blog auf Deutsch # blog_name wird auf Ihrer Blog-Seite angezeigt
+  nav_title: Blog # Ihr Blog muss einen Titel haben, um in der Navigationsleiste angezeigt zu werden
+  related_posts:
+    description: "Hier sind einige weitere Artikel, die Sie als nächstes lesen möchten:"
+    title: Viel Spaß beim Lesen dieses Artikels!
+months:
+  long:
+    january: Januar
+    february: Februar
+    march: März
+    april: April
+    may: Mai
+    june: Juni
+    july: Juli
+    august: August
+    september: September
+    october: Oktober
+    november: November
+    december: Dezember
+  short:
+    january: Jan
+    february: Feb
+    march: Mär
+    april: Apr
+    may: Mai
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dez
+news:
+  titles:
+    news1: Eine einfache Inline-Ankündigung.
+    news2: Eine lange Ankündigung mit Details
+    news3: "Eine einfache Inline-Ankündigung mit Markdown-Emoji! :sparkles: :smile:"
+pagination:
+  newer: Neuer
+  older: Älter
+projects:
+  titles:
+    project1: Projekt 1
+    project2: Projekt 2
+    project3: Projekt 3
+    project4: Projekt 4
+    project5: Projekt 5
+    project6: Projekt 6
+  descriptions:
+    project1: Ein Projekt mit einem Hintergrundbild
+    project2: Ein Projekt mit einem Hintergrundbild
+    project3: Ein Projekt, das zu einer anderen Website umleitet
+    project4: Ein weiteres Projekt ohne Bild
+    project5: Ein Projekt mit einem Hintergrundbild
+    project6: Ein Projekt ohne Bild
+  categories:
+    fun: Spaß
+    work: Arbeit
+repositories:
+  users: GitHub-Benutzer
+  repos: GitHub-Repositories
+cv:
+  address: Adresse
+  area: Bereich
+  awarder: Aussteller
+  awards: Auszeichnungen
+  basics: Allgemeine Informationen
+  certificates: Zertifikate
+  city: Stadt
+  countryCode: Ländercode
+  courses: Kurse
+  date: Datum
+  education: Ausbildung
+  email: E-Mail
+  endDate: Enddatum
+  fluency: Sprachkenntnisse
+  highlights: Höhepunkte
+  image: Bild
+  institution: Institution
+  interests: Interessen
+  issuer: Herausgeber
+  keywords: Stichwörter
+  label: Bezeichnung
+  language: Sprache
+  languages: Sprachen
+  level: Niveau
+  location: Standort
+  name: Name
+  network: Netzwerk
+  organization: Organisation
+  phone: Telefon
+  position: Position
+  postalCode: Postleitzahl
+  profiles: Profile
+  projects: Projekte
+  publications: Veröffentlichungen
+  publisher: Verlag
+  reference: Referenz
+  references: Referenzen
+  region: Region
+  releaseDate: Veröffentlichungsdatum
+  score: Punktzahl
+  skills: Fähigkeiten
+  startDate: Startdatum
+  studyType: Studientyp
+  summary: Zusammenfassung
+  table_of_contents: Inhaltsverzeichnis
+  title: Titel
+  url: URL
+  username: Benutzername
+  volunteer: Freiwilliger
+  work: Arbeit
