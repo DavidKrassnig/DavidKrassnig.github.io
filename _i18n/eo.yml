@@ -1,0 +1,154 @@
+not_found:
+  message: Vi estos redirektita al la ĉefa paĝo ene de 3 sekundoj. Se ne redirektiĝas, bonvolu reveni al la
+  main_page: hejmpaĝo
+main:
+  address: >
+    <p>555 via oficeja numero</p>
+    <p>123 via adreso-strato</p>
+    <p>Via Urbo, Ŝtato 12345</p>
+  contact_note: Vi eĉ povas aldoni malgrandan noton pri kiu el ili estas la plej bona maniero kontakti vin.
+  description: Simpla temo kun spacetoj por akademianoj. Baziĝas sur la dezajno de *folio.
+  footer_text: > # la simbolo ">" signifas ignoru linioŝanĝojn ĝis "titles:"
+    Funkciigita per <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> kun la temo <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+    Gastigita de <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    Fotoj de <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  subtitle: <a href='#'>Filioj</a>. Adreso. Kontaktoj. Moto. Ktp.
+titles:
+  about: pri
+  blog: blogo
+  cv: vivprotokolo
+  latest_posts: lastaj afiŝoj
+  news: novaĵoj
+  projects: projektoj
+  publications: eldonaĵoj
+  repositories: deponejoj
+  selected_publications: elektitaj eldonaĵoj
+  teaching: instruado
+  submenus: submenuoj
+  unk: paĝo ne trovita
+descriptions:
+  about: pri mi
+  archive-category: arkivo de afiŝoj en ĉi tiu kategorio
+  archive-tag: arkivo de afiŝoj kun ĉi tiu etikedo
+  archive-year: arkivo de afiŝoj de ĉi tiu jaro
+  blog: blogado
+  cv: Tio estas priskribo de la paĝo. Vi povas modifi ĝin en '_pages/cv.md'. Vi ankaŭ povas ŝanĝi aŭ forigi la supran pdf-elŝuta butonon.
+  publications: publikigoj laŭ kategorioj en inverse kronologia ordo. generitaj per jekyll-scholar.
+  projects: Kreskanta kolekto de viaj interesaj projektoj.
+  repositories: Redaktu la _data/repositories.yml kaj ŝanĝu la listojn github_users kaj github_repos por inkludi vian propran GitHub-profilon kaj deponejojn.
+  teaching: Materialoj por kursoj, kiujn vi instruis. Anstataŭigu ĉi tiun tekston per via priskribo.
+  unk: Ŝajnas, ke okazis eraro. Nenio ekzistas ĉi tie.
+blog:
+  description: simpla temo kun spacetoj por akademianoj
+  name: al-folio blogo en Esperanto # blog_name estos montrita en via blogpaĝo
+  nav_title: blogo # via blogo devas havi titolon por ĝi montriĝi en la navigacia breto
+  related_posts:
+    description: "Jen kelkaj aliaj artikoloj, kiujn vi eble ŝatus legi post tio:"
+    title: Ĝuu legadon de ĉi tiu artikolo?
+months:
+  long:
+    january: Januaro
+    february: Februaro
+    march: Marto
+    april: Aprilo
+    may: Majo
+    june: Junio
+    july: Julio
+    august: Aŭgusto
+    september: Septembro
+    october: Oktobro
+    november: Novembro
+    december: Decembro
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: Maj
+    june: Jun
+    july: Jul
+    august: Aŭg
+    september: Sep
+    october: Okt
+    november: Nov
+    december: Dec
+news:
+  titles:
+    news1: Simplan informon kun linioj
+    news2: Longa informo kun detaloj
+    news3: "Simpla informo kun Markdown-emotikonoj! :sparkles: :smile:"
+pagination:
+  newer: Plinova
+  older: Plia
+projects:
+  titles:
+    project1: Projekto 1
+    project2: Projekto 2
+    project3: Projekto 3
+    project4: Projekto 4
+    project5: Projekto 5
+    project6: Projekto 6
+  descriptions:
+    project1: projekto kun fona bildo
+    project2: projekto kun fona bildo
+    project3: projekto, kiu redirektas al alia retejo
+    project4: alia sen bildo
+    project5: projekto kun fona bildo
+    project6: projekto sen bildo
+  categories:
+    fun: amuzo
+    work: laboro
+repositories:
+  users: GitHub-Uzantoj
+  repos: GitHub-Deponejoj
+cv:
+  address: Adreso
+  area: Regiono
+  awarder: Premiinto
+  awards: Premioj
+  basics: Ĝenerala informo
+  certificates: Atestoj
+  city: Urbo
+  countryCode: Landa kodo
+  courses: Kursaroj
+  date: Dato
+  education: Edukado
+  email: Retpoŝto
+  endDate: Fina dato
+  fluency: Kapablo
+  highlights: Prizaĵoj
+  image: Bildo
+  institution: Institucio
+  interests: Interesoj
+  issuer: Donanto
+  keywords: Ŝlosilvortoj
+  label: Etikedo
+  language: Lingvo
+  languages: Lingvoj
+  level: Nivelo
+  location: Loko
+  name: Nomo
+  network: Reto
+  organization: Organizo
+  phone: Telefono
+  position: Pozicio
+  postalCode: Poŝtkodo
+  profiles: Profiloj
+  projects: Projektoj
+  publications: Publikigoj
+  publisher: Eldonanto
+  reference: Referenco
+  references: Referencoj
+  region: Regiono
+  releaseDate: Eldondato
+  score: Poento
+  skills: Kapabloj
+  startDate: Komencodato
+  studyType: Studa tipo
+  summary: Resumo
+  table_of_contents: Enhavo
+  title: Titolo
+  url: URL
+  username: Uzantonomo
+  volunteer: Volontulo
+  work: Laboro
