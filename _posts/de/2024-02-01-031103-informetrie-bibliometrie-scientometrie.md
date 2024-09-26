@@ -3,8 +3,8 @@ layout: post
 title: Informetrie, Bibliometrie und Scientometrie
 date: 2023-11-04 11:15:00+0200
 description: Vorlesungsmitschrift für Lehrgebiet 11.03 (Modul 3)
-tags: library-science DE-only
-categories: lecture-notes
+tags: Library-Science German
+categories: Lecture-Notes
 giscus_comments: true
 related_posts: false
 toc:

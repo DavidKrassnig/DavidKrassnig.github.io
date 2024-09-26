@@ -3,8 +3,8 @@ layout: post
 title: Handschriften und alte Drucke
 date: 2024-01-20 12:00:00+0200
 description: Vorlesungsmitschrift für Lehrgebiet 11.01 (Modul 3)
-tags: library-science DE-only
-categories: lecture-notes
+tags: Library-Science German
+categories: Lecture-Notes
 giscus_comments: true
 related_posts: false
 toc:
@@ -121,7 +121,7 @@ Historische Buchkunde beschäftigt sich mit der Entwicklung und Herstellung von 
 
 Die historische Buchkunde umfasst eine Vielzahl an Themen, die von der Herstellung mittelalterlicher Handschriften bis zur Analyse früher Drucke und deren Einbände reichen. Wichtige Aspekte wie die Entwicklung des Buchhandels, Provenienzforschung und die Entstehung verschiedener Schriftarten zeigen, wie Bücher und Drucke nicht nur kulturelle Artefakte, sondern auch wertvolle historische Quellen sind.
 
-### Quellen und Verweise
+### Quellen und Verweise der 1. Konsultation
 
 - Literaturdatenbanken
 - Wasserzeichendatenbanken (z. B. **WZIS**, **Briquet**)
@@ -249,7 +249,7 @@ Diese Vorlesung beschäftigt sich mit der Erschließung mittelalterlicher und ne
 
 Die Erschließung von Handschriften und alten Drucken ist ein komplexer Prozess, der sowohl tiefgehende Kenntnisse der historischen Materialien als auch moderne digitale Werkzeuge erfordert. Von der Provenienzforschung bis zur digitalen Verfügbarmachung von Inkunabeln und Nachlässen spielt die Erschließung eine zentrale Rolle bei der Bewahrung und dem Zugang zu kulturellem Erbe.
 
-#### Quellen und Verweise
+### Quellen und Verweise der 2. Konsultation
 - Manuscripta Mediaevalia ([manuscripta-mediaevalia.de](http://www.manuscripta-mediaevalia.de)).
 - Kalliope-Portal ([kalliope.staatsbibliothek-berlin.de](http://kalliope.staatsbibliothek-berlin.de)).
 - Gesamtkatalog der Wiegendrucke ([gesamtkatalogderwiegendrucke.de](http://www.gesamtkatalogderwiegendrucke.de)).

@@ -3,8 +3,8 @@ layout: post
 title: Bibliotheksstrategien & Forschungsinfrastrukturen
 date: 2023-12-09 11:15:00+0200
 description: Vorlesungsmitschrift für Lehrgebiet 08.05 (Modul 3)
-tags: library-science work-in-progress DE-only
-categories: lecture-notes
+tags: Library-Science German
+categories: Lecture-Notes
 giscus_comments: true
 related_posts: false
 toc:
