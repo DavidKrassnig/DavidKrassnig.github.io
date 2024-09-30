@@ -158,6 +158,20 @@
         "<b>MA-These Note:</b>: 1,1",
         "<b>Endnote:</b> 1,2"
       ]
+    },
+    {
+      "institution": "Universitätsbibliothek J.C. Senckenberg",
+      "location": "Frankfurt a.M., DE",
+      "url": "https://www.ub.uni-frankfurt.de",
+      "area": "Assessor des Bibliotheksdienstes",
+      "studyType": "Bibliothekarische Staatsprüfung",
+      "startDate": "2022-10",
+      "endDate": "2024-09",
+      "score": "1,0",
+      "courses": [
+        "<b>Endnote:</b> 1.0",
+        "Laufbahnbefähigung für den höheren wissenschaftlichen Dienst"
+      ]
     }
   ],
   "awards": [

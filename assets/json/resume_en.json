@@ -35,7 +35,7 @@
     },
     {
       "name": "J.C. Senckenberg University Library",
-      "position": "Trainee Librarian",
+      "position": "Academic Librarian in Preparatory Service",
       "location": "Frankfurt a.M., DE",
       "url": "https://www.ub.uni-frankfurt.de/home_en.html",
       "startDate": "2022-10",
@@ -157,6 +157,20 @@
       "courses": [
         "<b>MA Thesis Grade:</b> 1.1",
         "<b>Total Grade:</b> 1.2"
+      ]
+    },
+    {
+      "institution": "J.C. Senckenberg University Library",
+      "location": "Frankfurt a.M., DE",
+      "url": "https://www.ub.uni-frankfurt.de/home_en.html",
+      "area": "Assessor of Library Services",
+      "studyType": "State Exams",
+      "startDate": "2022-10",
+      "endDate": "2024-09",
+      "score": "1.0",
+      "courses": [
+        "<b>Total Grade:</b> 1.0",
+        "Higher Academic Service Qualification for Academic Libraries"
       ]
     }
   ],

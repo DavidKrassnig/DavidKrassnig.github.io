@@ -158,6 +158,20 @@
         "<b>MA-Teza Noto:</b> 1.1",
         "<b>Tutnoto:</b> 1.2"
       ]
+    },
+    {
+      "institution": "Universitata Biblioteko J.C. Senckenberg",
+      "location": "Frankfurto ĉ.M., DE",
+      "url": "https://www.ub.uni-frankfurt.de",
+      "area": "Taksisto de Biblioteka Servo",
+      "studyType": "Bibliotekista Ŝtata Ekzameno",
+      "startDate": "2022-10",
+      "endDate": "2024-09",
+      "score": "1.0",
+      "courses": [
+        "<b>Tutnoto:</b> 1.0",
+        "Karierkapablo por la supera scienca servo"
+      ]
     }
   ],
   "awards": [
