@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name:
 last_name: Krassnig
-email: d.krassnig@ub.uni-frankfurt.de
+email: david.krassnig@tuwien.ac.at
 keywords: library, librarian, linguistics, digital humanities, blog, portfolio # add your own keywords or leave empty
 icon: android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
